@@ -1,9 +1,9 @@
 # Aria Bahmanzangi
 ### Front-End Developer • React & Next.js Specialist
 
-Portfolio: https://ariabz.netlify.app 
-GitHub: https://github.com/aria390 
-Email: ariabahmanzangi@gmail.com 
+Portfolio: https://ariabz.netlify.app   
+GitHub: https://github.com/aria390   
+Email: ariabahmanzangi@gmail.com   
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&width=500&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+.+Modern+UI+.+High+Performance)
 
@@ -84,9 +84,9 @@ GitHub: https://github.com/aria390/Car-Rental-react.git
 ---
 
 ## 📫 Contact
-Email: ariabahmanzangi@gmail.com 
-Portfolio: https://ariabz.netlify.app 
-GitHub: https://github.com/aria390 
+Email: ariabahmanzangi@gmail.com   
+Portfolio: https://ariabz.netlify.app   
+GitHub: https://github.com/aria390   
 
 ---
 
